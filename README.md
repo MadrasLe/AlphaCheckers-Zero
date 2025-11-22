@@ -44,6 +44,9 @@ Please rename the source files to match the structure below for better organizat
 *   `evalminimax.py`: Script to battle against the Minimax algorithm.
 *   `checkers_master_final.pth`: The AlphaChecker Weight Trained
 
+## Testing
+https://huggingface.co/spaces/Madras1/AlphaCherckerZero
+
 ## Getting Started
 
 
