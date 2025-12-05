@@ -100,6 +100,7 @@ python AlphacheckerTrainer.py
 ```
 
 
+
 Technical Details
 The Neural Network
 Input: (5, 8, 8) Tensor. Encodes [Player Pieces, Opponent Pieces, Kings] and Turn.
