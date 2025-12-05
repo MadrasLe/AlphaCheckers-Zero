@@ -94,7 +94,7 @@ python evaLLM.py
 4. Training from Scratch
 To reproduce the results (Warning: Requires GPU):
 
-``bash
+```bash
 python AlphacheckerTrainer.py
 ```
 
