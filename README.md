@@ -3,11 +3,13 @@
 > **A PyTorch implementation of AlphaZero for Checkers, featuring a "Battle Arena" benchmarking Deep Reinforcement Learning against State-of-the-Art LLMs (Llama 3, Kimi) and Classical Search (Minimax).**
 
 <div align="center">
+ 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red?logo=pytorch)
 ![License](https://img.shields.io/badge/License-Apache_2.0-green)
 ![Status](https://img.shields.io/badge/Status-Research_Complete-purple)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Madras1/AlphaCherckerZero)
+
 </div>
 ---
 
