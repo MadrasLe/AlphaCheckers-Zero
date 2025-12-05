@@ -70,12 +70,11 @@ The codebase is modularized for clarity and reproducibility:
  Getting Started
 1. Installation
 Clone the repo and install dependencies:
-
+```
 
 ```bash
 git clone [https://github.com/MadrasLe/AlphaCheckers-Zero.git](https://github.com/MadrasLe/AlphaCheckers-Zero.git)
 cd AlphaCheckers-Zero
-
 pip install -r requirements.txt
 ```
 
