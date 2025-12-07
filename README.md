@@ -59,6 +59,14 @@ The trained model (`checkers_master_final.pth`) was subjected to rigorous testin
 
 ---
 
+## Benchmark Results
+| Opponent | Games | Wins | Losses | Draws | Win Rate |
+|----------|-------|------|--------|-------|----------|
+| Minimax Depth 8 | 50 | 0 | 0 | 50 | 0.0% |
+| Llama 3 70B/Kimi k2/Gemini 2.5 flash | 10 | 10 | 0 | 0 | 100.0% |
+| Human (avg ELO 1400) | 10 | 8 | 0 | 2 | 80.0% |
+
+
 ##  Project Structure
 
 The codebase is modularized for clarity and reproducibility:
